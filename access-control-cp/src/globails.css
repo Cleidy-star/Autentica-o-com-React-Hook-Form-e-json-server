@@ -8,10 +8,6 @@
   color-scheme: light;
 }
 
-
-* { -webkit-tap-highlight-color: transparent; }
-
-
 html, body, #root {
   height: 100%;
 }
@@ -131,7 +127,7 @@ textarea[aria-invalid="true"] {
   padding: .4rem .6rem;
   border-radius: .5rem;
   text-decoration: none;
-}/* slate-100 */
+}
 
 
 .mt-1 { margin-top: .25rem; }
